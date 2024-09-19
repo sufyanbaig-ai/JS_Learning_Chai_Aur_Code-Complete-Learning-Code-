@@ -5,7 +5,7 @@
 
 
 
-//*************** Object Literals **************/
+//*************** Object Literals **************//
 
 const mySym = Symbol("key1")
 
